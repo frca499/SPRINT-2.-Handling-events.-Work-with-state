@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Profile Card 2",
+    "slug": "profile-card-interactive",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
